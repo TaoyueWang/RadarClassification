@@ -1,5 +1,8 @@
 # RadarClassification
 
+This page describes the course EE 4675: Object Classification with Radar project. The aim of this project is to classify six activities of 
+human subjects using an FMCW radar. 
+
 Code files: 
 
 basic_ml.ipynb: load feature matrices, feature standardization, feature selection, cross-validation, training and test with SVM, KNN, Random Forest model
