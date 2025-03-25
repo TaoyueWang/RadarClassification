@@ -1,7 +1,7 @@
 # RadarClassification
 
-## This page describes the course EE 4675: Object Classification with Radar project. The aim of this project is to classify six activities of 
-## human subjects using an FMCW radar. 
+This page describes the course EE 4675: Object Classification with Radar project. The aim of this project is to classify six activities of 
+human subjects using an FMCW radar. 
 
 Code files: 
 
