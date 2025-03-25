@@ -2,6 +2,7 @@
 
 Code files: 
 basic_ml.ipynb: load feature matrices, feature standardization, feature selection, cross-validation, training and test with SVM, KNN, Random Forest model
+
 CNN.ipynb: load images, hyperparameter tuning, training and test with CNN model, including ConvNet and ConvSE
 
 Data files: 
